@@ -1,16 +1,14 @@
 # desafio_vesti
 
-A new Flutter project.
+Inovador e inusitado
 
-## Getting Started
+## Considerações
 
-This project is a starting point for a Flutter application.
+Infelizmente não consegui completar o desafio.
 
-A few resources to get you started if this is your first Flutter project:
+Foi algo novo pra mim, não conhecia nada da linguagem então todo conhecimento adquirido foi durante esses dias de desafio.
+Fiz alguns cursos gratuitos da linguagem e aprensa a usar inumeros widgets.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Varios desafios dos cursos foram feitos, entretanto nenhum usando alimentação de API externa, isso gerou determinadas duvidas e problemas, nada que um pouco mais de estudo não solucionasse, porém, o tempo acabo.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Espero ser avaliado, e chamado para uma entrevista, desde já, agradeço!
